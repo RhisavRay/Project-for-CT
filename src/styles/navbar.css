@@ -21,3 +21,14 @@
     justify-content: space-between;
     gap: 3vw;
 }
+
+.link
+{
+    /* color: white; */
+    font-weight: bold;
+    font-style: italic;
+    font-family: "lato";
+    font-size: smaller;
+    display: flex;
+    align-items: center;
+}
