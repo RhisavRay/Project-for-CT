@@ -5,7 +5,11 @@ const Navbar = () => {
   return (
     <div className="navbar">
 
-        <div className="navitem">Image</div>
+        <div className="navitem">
+
+            <img src={require('../Assets/Profile_pic.jpg')} alt='Profile Pic' />
+
+        </div>
 
         <div className="navitem links">
 
