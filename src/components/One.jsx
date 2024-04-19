@@ -6,6 +6,14 @@ const One = () => {
 
         <img src={require('../Assets/Image_1.png')} alt="Losangeles Mountains" className="image"/>
 
+        <div className="heading">
+
+            <span className="one">LOSANGELES</span>
+
+            <span className="two">MOUNTAINS</span>
+
+        </div>
+
     </div>
   )
 }
