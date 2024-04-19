@@ -10,7 +10,10 @@ const Landing = () => {
   return (
     <div>
       <One/>
+
       <Two/>
+
+      
     </div>
   )
 }
