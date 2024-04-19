@@ -7,7 +7,7 @@
 .container
 {
     height: 100vh;
-    width: 100vw;
+    width: 98.7vw;
     overflow: hidden;
 }
 
@@ -21,7 +21,7 @@
 {
     position: absolute;
     top: 25vh;
-    left: 15vw;
+    left: 30vw;
     display: flex;
     flex-direction: column;
     font-size:10vh;
