@@ -1,8 +1,12 @@
-import React from 'react'
+import "../styles/one.css"
 
 const One = () => {
   return (
-    <div>One</div>
+    <div className="container">
+
+        <img src={require('../Assets/Image_1.png')} alt="Losangeles Mountains" />
+
+    </div>
   )
 }
 
